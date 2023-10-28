@@ -4,7 +4,7 @@ import EditUserForm from './forms/EditUserForm'
 import UserTable from './tables/UserTable'
 
 const App = () => {
-  // Data
+  // Dummy Data
   const usersData = [
     { id: 1, name: 'Tina', username: 'floppydiskette' },
     { id: 2, name: 'Crag', username: 'milkdolon' },
